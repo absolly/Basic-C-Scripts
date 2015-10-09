@@ -1,0 +1,5 @@
+/Users/Tiemen/Dropbox/Saxion/Q1.1/Programming/ProgrammingBasics/ProgrammingBasics/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Tiemen/Dropbox/Saxion/Q1.1/Programming/ProgrammingBasics/ProgrammingBasics/bin/Debug/ProgrammingBasics.exe.mdb
+/Users/Tiemen/Dropbox/Saxion/Q1.1/Programming/ProgrammingBasics/ProgrammingBasics/bin/Debug/ProgrammingBasics.exe
+/Users/Tiemen/Dropbox/Saxion/Q1.1/Programming/ProgrammingBasics/ProgrammingBasics/obj/x86/Debug/ProgrammingBasics.exe
+/Users/Tiemen/Dropbox/Saxion/Q1.1/Programming/ProgrammingBasics/ProgrammingBasics/obj/x86/Debug/ProgrammingBasics.exe.mdb
